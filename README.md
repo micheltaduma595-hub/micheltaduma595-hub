@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Salut, je suis AGONVA TADUMA Michel !
 
-<!--
-**micheltaduma595-hub/micheltaduma595-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Étudiant en Solutions Informatiques à IAGE
+Je suis passionné par le développement de **solutions informatiques** robustes et efficaces. Mon objectif est de transformer des idées complexes en applications fonctionnelles.
 
-Here are some ideas to get you started:
+### 💡 Mes Compétences et Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domaine | Technologies/Langages |
+| :--- | :--- |
+| **Backend/Web** | **PHP**, MySQL |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Outils & Environnement** | **VS Code**, Git/GitHub. |
+### 🌱 Ce sur quoi je travaille actuellement
+
+* Amélioration de mes compétences en [Préciser une compétence : ex. Programmation Orientée Objet en PHP].
+* Contribution à des projets open source (ou mentionner un projet personnel).
+* Création de ma propre page de portfolio avec **HTML, CSS et JavaScript**.
+
+### 🌐 Retrouvez-moi en ligne
+
+* **[Lien vers votre portfolio/index.html une fois en ligne]**
+* [Lien vers votre LinkedIn (facultatif)]
+
+> **"Le code est comme l'humour. Quand il doit être expliqué, il est mauvais."** - Cory House
