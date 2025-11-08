@@ -1,24 +1,26 @@
-# 👋 Salut, je suis AGONVA TADUMA Michel !
+# 👋 Bienvenue sur mon Profil, je suis AGONVA TADUMA Michel !
 
-### 🎓 Étudiant en Solutions Informatiques à IAGE
-Je suis passionné par le développement de **solutions informatiques** robustes et efficaces. Mon objectif est de transformer des idées complexes en applications fonctionnelles.
+### 👨💻 Étudiant à IAGE en Solutions Informatiques
 
-### 💡 Mes Compétences et Technologies
+Je suis un développeur passionné par la création de solutions web robustes. Actuellement, je me concentre sur l'apprentissage du **développement back-end avec PHP** et la conception d'interfaces utilisateur modernes.
 
-| Domaine | Technologies/Langages |
+## 🛠️ Stack Technique
+
+| Catégorie | Outils & Langages |
 | :--- | :--- |
-| **Backend/Web** | **PHP**, MySQL |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Outils & Environnement** | **VS Code**, Git/GitHub. |
-### 🌱 Ce sur quoi je travaille actuellement
+| **Langages Web** | HTML5, CSS3, **JavaScript** |
+| **Back-End** | **PHP**, SQL (MySQL/MariaDB) |
+| **IDE** | **Visual Studio Code** (VS Code) |
+| **Versionnement** | Git, GitHub |
 
-* Amélioration de mes compétences en [Préciser une compétence : ex. Programmation Orientée Objet en PHP].
-* Contribution à des projets open source (ou mentionner un projet personnel).
-* Création de ma propre page de portfolio avec **HTML, CSS et JavaScript**.
+## ✨ Projets Récents
 
-### 🌐 Retrouvez-moi en ligne
+* **Michel projet 1** : Une application de gestion de développée en PHP.
+* **Mon Portfolio Web** : (Ce projet !) Création d'une page personnelle avec `index.html`, `style.css`, et `script.js`.
 
-* **[Lien vers votre portfolio/index.html une fois en ligne]**
-* [Lien vers votre LinkedIn (facultatif)]
+## 📬 Contact et Réseaux
 
-> **"Le code est comme l'humour. Quand il doit être expliqué, il est mauvais."** - Cory House
+<a href="mailto:votre.email@iage.edu.ci"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="[Lien vers votre LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+> **"Codez votre propre avenir. Il est temps de mettre la main à la pâte."**
