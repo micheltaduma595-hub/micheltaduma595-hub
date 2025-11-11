@@ -1,26 +1,42 @@
-# 👋 Bienvenue sur mon Profil, je suis AGONVA TADUMA Michel !
+# 🧑💻 Développeur de Solutions Informatiques | [Votre Prénom]
 
-### 👨💻 Étudiant à IAGE en Solutions Informatiques
+## 🎓 Étudiant à l'IAGE | Spécialisation Back-End
 
-Je suis un développeur passionné par la création de solutions web robustes. Actuellement, je me concentre sur l'apprentissage du **développement back-end avec PHP** et la conception d'interfaces utilisateur modernes.
+Bonjour ! Je suis un développeur passionné par la création de solutions web robustes et efficaces. Actuellement en cours de formation, je me concentre sur la maîtrise du **développement back-end avec PHP** et la conception d'interfaces utilisateur (Front-End).
 
-## 🛠️ Stack Technique
+---
 
-| Catégorie | Outils & Langages |
-| :--- | :--- |
-| **Langages Web** | HTML5, CSS3, **JavaScript** |
-| **Back-End** | **PHP**, SQL (MySQL/MariaDB) |
-| **IDE** | **Visual Studio Code** (VS Code) |
-| **Versionnement** | Git, GitHub |
+## 🛠️ Ma Stack Technique (Outils & Compétences)
 
-## ✨ Projets Récents
+Voici les outils et technologies que j'utilise et que je maîtrise :
 
-* **Michel projet 1** : Une application de gestion de développée en PHP.
-* **Mon Portfolio Web** : (Ce projet !) Création d'une page personnelle avec `index.html`, `style.css`, et `script.js`.
+### Langages & Back-End
+* **PHP** (Focus Principal)
+* **SQL** (MySQL/MariaDB)
+* HTML5 & CSS3
+* JavaScript
 
-## 📬 Contact et Réseaux
+### Outils de Développement
+* **Visual Studio Code (VS Code)**
+* Git & GitHub
+* Figma (pour le prototypage)
 
-<a href="mailto:votre.email@iage.edu.ci"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="[Lien vers votre LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
 
-> **"Codez votre propre avenir. Il est temps de mettre la main à la pâte."**
+## ✨ Mes Réalisations (Projets Récents)
+
+Voici quelques exemples de mes travaux actuels :
+
+* **[Nom du Projet 1]** : Application de gestion de [sujet] - Développée intégralement en **PHP**.
+* **Mon Portfolio Web** : Site personnel conçu pour présenter mon parcours et ma stack.
+* **[Nom du Projet 2 - Exemple d'exercice/TP]** : [Courte description, ex: Script de manipulation de données en JS].
+
+---
+
+## 📬 Contactez-moi
+
+N'hésitez pas à me contacter pour toute opportunité de collaboration ou pour discuter de mes travaux.
+
+<a href="mailto:votre.email@iage.edu.ci"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+<a href="[Lien vers votre LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[Lien vers votre GitHub]"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
