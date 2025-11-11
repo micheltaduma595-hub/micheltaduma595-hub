@@ -1,10 +1,8 @@
-# 🧑💻 Développeur de Solutions Informatiques | [Votre Prénom]
+# 🧑💻 Développeur de Solutions Informatiques AGONVA TADUMA Michel
 
 ## 🎓 Étudiant à l'IAGE | Spécialisation Back-End
 
 Bonjour ! Je suis un développeur passionné par la création de solutions web robustes et efficaces. Actuellement en cours de formation, je me concentre sur la maîtrise du **développement back-end avec PHP** et la conception d'interfaces utilisateur (Front-End).
-
----
 
 ## 🛠️ Ma Stack Technique (Outils & Compétences)
 
@@ -21,17 +19,14 @@ Voici les outils et technologies que j'utilise et que je maîtrise :
 * Git & GitHub
 * Figma (pour le prototypage)
 
----
-
 ## ✨ Mes Réalisations (Projets Récents)
 
 Voici quelques exemples de mes travaux actuels :
 
-* **[Nom du Projet 1]** : Application de gestion de [sujet] - Développée intégralement en **PHP**.
-* **Mon Portfolio Web** : Site personnel conçu pour présenter mon parcours et ma stack.
-* **[Nom du Projet 2 - Exemple d'exercice/TP]** : [Courte description, ex: Script de manipulation de données en JS].
+* **Site pour vérifier le suivi du paie d'un Entite**.
+* **Mon Portfolio Web**.
+* **Un applicatiuon pour la gestion de malade dans un Hopital**.
 
----
 
 ## 📬 Contactez-moi
 
